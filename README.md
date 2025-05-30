@@ -1,4 +1,4 @@
-<h1 align="center">Mobile App Development -> LAB TASK & Activity </h1>
+<h1 align="center">Mobile App Development -> Lab Task & Activity </h1>
 
 ---
 
