@@ -17,8 +17,8 @@ To run the respective sections, follow these instructions:
 
 ### ▶️ Instructions
 
-- To **run the Lab Activity**, **uncomment the code under the `// ACTIVITY` comment block** in the source file.
-- To **run the Lab Task**, **uncomment the code under the `// LAB TASK` comment block** in the source file.
+- To **run the Lab Activity**, **uncomment the code under the `// ACTIVITY` comment block** in the `index.js` file.
+- To **run the Lab Task**, **uncomment the code under the `// LAB TASK` comment block** in the `index.js` file.
 
 Make sure only **one section is active at a time** to avoid conflicts or duplicate component rendering.
 
